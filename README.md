@@ -11,7 +11,7 @@ python joiner.py or run start.bat file
 4. enter your bot details after running the bot.
 5. type .join [guild id] [start from] [amount]
 
-# MADE BY s4xme.
+# Made by s4xme.
 leave a star before using.
 
 # Contact
