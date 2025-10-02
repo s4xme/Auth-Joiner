@@ -15,4 +15,4 @@ python joiner.py or run start.bat file
 purely made in python , leave a star before using.
 
 # Contact
-join https://discord.gg/recaptcha or dm aiatom.
+discord : s4xme
