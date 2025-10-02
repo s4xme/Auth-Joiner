@@ -11,8 +11,8 @@ python joiner.py or run start.bat file
 4. enter your bot details after running the bot.
 5. type .join [guild id] [start from] [amount]
 
-# MADE BY AI~ATOM.
-purely made in python , leave a star before using.
+# MADE BY s4xme.
+leave a star before using.
 
 # Contact
 discord : s4xme
