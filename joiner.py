@@ -166,7 +166,7 @@ async def ltc(ctx):
 
 @bot.command(aliases=["inv","invite"])
 async def link(ctx):
-    embed = discord.Embed(description="https://discord.com/api/oauth2/authorize?client_id={CLIENT_ID}}&permissions=8&scope=bot")
+    embed = discord.Embed(description=f"https://discord.com/api/oauth2/authorize?client_id={CLIENT_ID}}&permissions=8&scope=bot")
     await ctx.send(embed=embed, mention_author=False)
 
 
